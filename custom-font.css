@@ -1,0 +1,10 @@
+@font-face {
+    font-family: 'Minecraftia';
+    src: url('Minecraftia-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+body{
+    background-color: rgb(20, 20, 20);
+    text-align: center;
+}
